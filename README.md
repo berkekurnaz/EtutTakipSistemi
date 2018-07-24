@@ -4,8 +4,8 @@ Visual Studio 2017 Geliştirme Ortamında C# Programlama Dili İle Yazılmışt�
 
 ### Veritabanı Kurulumu
 1-)DbEtutProgrami Adında Veritabanı Oluşturun.<br />
-2-)[Oluşturulacak Tablo Resimleri İçin Tıklayın...](https://github.com/berkekurnaz/EtutTakipSistemi/tree/master/Tablolar)
-3-)sqlbaglantisi.cs içerisinde bulunan SqlConnection Bağlantı Adresini Kendi Adresiniz İle Değiştirin.
+2-)[Oluşturulacak Tablo Resimleri İçin Tıklayın...](https://github.com/berkekurnaz/EtutTakipSistemi/tree/master/Tablolar)  <br />
+3-)sqlbaglantisi.cs içerisinde bulunan SqlConnection Bağlantı Adresini Kendi Adresiniz İle Değiştirin.  <br />
 4-)Program Kurulumu Tamamlanmıştır.
 
 ### Örnek Resimler
