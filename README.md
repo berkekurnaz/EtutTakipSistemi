@@ -1,5 +1,12 @@
 # EtutTakipSistemi
-Birebir Etut Takip Sistemi Programı
+Birebir Etut Takip Sistemi Programı <br />
+Visual Studio 2017 Geliştirme Ortamında C# Programlama Dili İle Yazılmıştır. <br />
+
+### Veritabanı Kurulumu
+1-)DbEtutProgrami Adında Veritabanı Oluşturun.<br />
+2-)[Oluşturulacak Tablo Resimleri İçin Tıklayın...](https://github.com/berkekurnaz/EtutTakipSistemi/tree/master/Tablolar)
+3-)sqlbaglantisi.cs içerisinde bulunan SqlConnection Bağlantı Adresini Kendi Adresiniz İle Değiştirin.
+4-)Program Kurulumu Tamamlanmıştır.
 
 ### Örnek Resimler
 
